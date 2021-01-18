@@ -1,5 +1,5 @@
 # Sliding-Puzzle-
 A simple sliding puzzle in python using pygame 
 
-<img src ="before.png">
-<img src="after.png">
+<img src ="Before.png">
+<img src="After.png">
